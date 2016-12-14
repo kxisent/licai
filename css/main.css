@@ -710,8 +710,9 @@ header .main ul li a.active {
     filter: grayscale(100%);
     width: 20%;
     height: 35px;
-    background: url('../img/logo@1x.png') no-repeat left;
+    background: url('../img/logo.png') no-repeat left;
     background-size: 150px 35px;
+   
 }
 
 .footer-content ul {
